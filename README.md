@@ -6,7 +6,6 @@ IoT-Based Temperature and Inventory Monitoring System
    This project is an IoT-enabled Smart Fridge System that monitors real-time temperature and tracks basic inventory to ensure safe food storage. The system alerts users when the temperature crosses safe limits. The project is built using sensors and a microcontroller such as ESP32/Arduino.
 
  Features:
-
      1.Real-time temperature monitoring
 
      2.Alerts when temperature is too high or low
